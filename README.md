@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,go,rust,raspberrypi" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,go,python,rust,raspberrypi" alt="Tech stack" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 **[Miku](https://www.dora-tech.net/pikapi/miku/)**: an AI voice bot I built for my child.
 
 <a href="https://www.dora-tech.net/pikapi/miku/">
-  <img src="./assets/miku-thumb.jpg" alt="Miku, an AI voice bot" width="320" />
+  <img src="./assets/miku-thumb.png" alt="Miku, an AI voice bot" width="320" />
 </a>
 
 <sub>Hatsune Miku, © Crypton Future Media, Inc. 2007, licensed under CC BY-NC.</sub>
